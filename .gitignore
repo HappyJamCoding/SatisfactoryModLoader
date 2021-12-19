@@ -83,3 +83,4 @@ Plugins/*
 !Plugins/SMLEditor/
 !Plugins/ExampleMod/
 !Plugins/FoundationIndustries/
+Config/DefaultGame.ini
